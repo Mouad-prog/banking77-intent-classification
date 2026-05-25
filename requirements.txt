@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+nltk
+datasets<4.0.0
+huggingface-hub
+pyarrow
+torch
+transformers==4.41.2
+sentence-transformers==3.0.1
+tokenizers==0.19.1
